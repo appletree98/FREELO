@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FREELO</string>
+    <string name="rank1">Your Rank :</string>
+    <string name="role1">Your role :</string>
+
+    <string-array name="rank">
+        <item>Bronze</item>
+        <item>Silver</item>
+        <item>Gold</item>
+        <item>Platinum</item>
+        <item>Diamond</item>
+        <item>Masters</item>
+        <item>Challenger</item>
+    </string-array>
+
+    <string-array name="role">
+        <item>ADC</item>
+        <item>Support</item>
+        <item>Mid</item>
+        <item>Jungle</item>
+        <item>Top</item>
+    </string-array>
+</resources>
